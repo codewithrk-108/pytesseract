@@ -13,6 +13,7 @@ from .pytesseract import run_and_get_output
 from .pytesseract import TesseractError
 from .pytesseract import TesseractNotFoundError
 from .pytesseract import TSVNotSupported
+from .pytesseract import prepare
 
 
 __version__ = '0.3.10'
